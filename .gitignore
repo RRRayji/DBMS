@@ -1,0 +1,6 @@
+*.resx
+.vs
+bin
+obj
+Properties
+*.config
